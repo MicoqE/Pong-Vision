@@ -198,11 +198,7 @@ The goal is to explore computer vision, real-time image processing, and interact
 
 ## License
 
-No license has been added yet. Unless a license is specified, others should not assume they have permission to redistribute or modify this project's code.
-
-If you want to make the project open source, consider adding an MIT License:
-
-https://opensource.org/license/mit
+This project is distributed under the MIT License. See the [MIT License](LICENSE) file at the root of the repository.
 
 ---
 
