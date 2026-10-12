@@ -1,0 +1,59 @@
+# Compiled executables and debug symbols
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.pch
+
+# Build directories
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code user-specific settings
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/build-pong.bat
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local OpenCV installation (large third-party dependency)
+opencv/
+
+# Local environment files
+.env
+.env.*
+!.env.example
